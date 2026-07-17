@@ -1,0 +1,176 @@
+header{
+    height: 100px;
+    /* background-color: antiquewhite; */
+    position: relative;
+}
+
+.logo{
+    float: left;
+    position: absolute;
+    left: 200px;
+    top: -100px;
+}
+
+li{
+    display: inline-block;
+}
+
+nav{
+    float: right;
+    position: absolute;
+    right: 400px;
+    top: 60px;
+}
+
+.btn1{
+    background-color: rgb(252, 80, 80);
+    border-radius: 10px;
+    height: 45px;
+    width: 80px;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    color: white;
+}
+
+div{
+    /* float: left; */
+    position: relative;
+}
+
+.h1{
+    position: absolute;
+    left: 370px;
+    top: 120px;
+    font-size: 3rem;
+}
+
+.p1{
+    position: absolute;
+    left: 370px;
+    top: 250px;
+    font-size: 1.5rem;
+}
+
+.btn2{
+    background-color: rgb(78, 78, 235);
+    width: 170px;
+    height: 50px;
+    position: absolute;
+    left: 370px;
+    top: 400px;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    color: white;
+    border-radius: 10px;
+}
+
+.btn3{
+    position: absolute;
+    left: 550px;
+    top: 400px;
+    width: 170px;
+    height: 50px;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.box{
+    width: 950px;
+    height: 330px;
+    background-color: rgb(78, 78, 235);
+    float: right;
+    border-radius: 300px;
+    /* z-index: ; */
+    border-color: black;
+    border: 1px;
+    border-width: 1px;
+    border-style: solid;
+    position: absolute;
+    right: -150px;
+    top: 350PX;
+}
+
+.pic{
+    position: absolute;
+    top: 223px;
+    right: 250px;
+}
+
+.box1{
+    width: 1900px;
+    height: 00px;
+    background-color: rgb(236, 236, 236);
+    position: absolute;
+    bottom: -800px;
+}
+
+.h2{
+    position: absolute;
+    top: 900px;
+    left: 900px;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.p2{
+    font-size: 1.5rem;
+    position: absolute;
+    top: 1000px;
+    left: 500px;
+    text-align: center;
+}
+
+.h3{
+    float: right;
+    right: 600px;
+    top: 1200px;
+    font-size: 1.2rem;
+}
+
+.p3{
+    float: right;
+    right: 26px;
+    top: 1250px;
+    font-size: 1.3rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box2{
+    width: 950px;
+    height: 330px;
+    background-color: rgb(78, 78, 235);
+    float: right;
+    border-radius: 300px;
+    /* z-index: ; */
+    border-color: black;
+    border: 1px;
+    border-width: 1px;
+    border-style: solid;
+    float: left;
+    left: -200px;
+    top: 1300px;
+}
+
+.pic2{
+    position: absolute;
+    left: 350px;
+    top: 1300px;
+}
+
+.btn4{
+    background-color: rgb(78, 78, 235);
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    width: 90px;
+    height: 45px;
+    color: white;
+    position: absolute;
+    top: 1470px;
+    right: 790px;
+}
