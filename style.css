@@ -494,7 +494,7 @@ div{
 }
 
 .div5{
-    width: 1700px;
+    width: 1900px;
     height: 100px;
     background-color: rgb(28, 28, 86);
     position: absolute;
@@ -503,20 +503,20 @@ div{
 
 .bookmark{
     position: absolute;
-    left: -1000px;
+    left: -1200px;
     top: -20px;
 }
 
 .ul2{
     display: inline-block;
     position: absolute;
-    left: -800px;
+    left: -1000px;
     top: -22px;
     color: white;
 }
 
 .copy{
     position: absolute;
-    left: -100px;
+    left: -300px;
     top: -20px;
 }
